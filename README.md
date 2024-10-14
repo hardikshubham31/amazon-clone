@@ -1,3 +1,3 @@
 # amazon-clone
 
-Amazon Clone made using HTML & CSS
+This Amazon clone is a front-end web application designed using pure HTML and CSS, showcasing a static replica of the popular e-commerce platform. The design captures the look and feel of Amazon's user interface, including its navigation bar, product listings, categories, search functionality (UI only), and detailed product pages. The layout is responsive and optimized for various screen sizes, offering a clean, modern, and intuitive user experience. While this project focuses on front-end development, it demonstrates the use of CSS for styling and HTML for structuring a complex, content-rich site like Amazon.
